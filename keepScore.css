@@ -1,0 +1,29 @@
+.winner {
+    color:#32cd32;
+}
+
+body {
+    text-align: center;
+    font-family: 'Yatra One', cursive;
+    color: white;
+}
+
+div {
+  background: linear-gradient(to right bottom, #ee2c2c 50%, #1c86ee 50%);
+}
+
+h1 {
+    font-size: 64px;
+    : white;
+}
+
+p {
+    font-size: 28px;
+}
+
+button{
+    font-family: 'Yatra One', cursive;
+    font-size:16px;
+    padding-bottom: 1px;
+    margin: 3px;
+}
